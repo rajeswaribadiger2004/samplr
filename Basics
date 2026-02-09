@@ -1,0 +1,12 @@
+java compile machine
+         |
+java runtime environment
+         |
+java virtual machine
+
+source code(.java)->compiler(jdk)->byte code(.class)->jvm->(native code)
+
+class main(){
+void main(){
+}
+}
